@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.eyes {
+    background-image: url("./assets/bubbles.jpg");
+    background-size: cover;
+    background-position: center;
+}
